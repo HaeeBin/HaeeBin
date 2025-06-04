@@ -23,5 +23,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:goqls4112@gmail.com)
 <br><br><br>
 
+## 📊 GitHub Stats
+[![Haeebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeebin&count_private=true)]
 
 </div>
